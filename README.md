@@ -12,3 +12,5 @@ Starting development server at http://0.0.0.0:8000/
 Quit the server with CONTROL-C.
 (..SNIP..)
 ```
+
+![](https://raw.githubusercontent.com/westporch/DjangoRESTframework_QucikStart/master/screenshots/UserList.png)
